@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="http://placekitten.com/300/200"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Jack Roehrig
+      </div>
+      <div
+        className="card-subtitle h6"
+      >
+        Born May 17th, 2001
+      </div>
+      <p
+        className="card-text"
+      >
+        Hi! My name is Jack, I am from Verona, WI. I played football, hockey, and golf in highschool.
+      </p>
+    </div>
+  </div>
+</div>
+`;
